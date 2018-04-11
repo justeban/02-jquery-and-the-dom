@@ -33,6 +33,6 @@
     
 
 }
-#articles:nth-child(1) {
+#articles article:nth-child(1) {
     display: none;
 }
