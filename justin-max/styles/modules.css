@@ -15,22 +15,18 @@
         visibility: visible;
         float: right;
         font-size: 2.5em;
-    
     }
+
     .heading-group-h1 {
         float: left;
     } 
     .main-nav:hover ul {
         display: block;
-        
     }
     .main-nav:hover ul li {
         display: block;
-        margin: 10px;
-        
-        
+        margin: 10px;   
     }
-    
 
 }
 #articles article:nth-child(1) {
