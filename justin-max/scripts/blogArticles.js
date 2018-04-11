@@ -3,6 +3,8 @@
 // COMMENT: How is this data utilized within our blog app? What is the structure of this data (your response should include the terms "object", "array", and "key/value pairs")?
 // PUT YOUR RESPONSE HERE
 
+// This is an array of objects with the same six key/value pairs. This 'rawData' will be the array that we use to popluate the html with our constructor function.
+
 let rawData = [
   {
     title:       'Bob Ross Ipsum',
